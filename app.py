@@ -28,6 +28,7 @@
 <meta name="twitter:description" content="Layanan hosting dan berbagi gambar gratis, unggah gambar, host foto. Menawarkan solusi integrasi untuk mengunggah gambar ke forum.">
 <meta name="twitter:title" content="ImgBB — Unggah Gambar — Hosting Gambar Gratis">
 <meta name="twitter:site" content="@imgbb_com">
+<link rel="stylesheet" href="//simgbb.com/8179/ibb.css">
 <style>
   #home-cover {
     background-image: url('https://i.postimg.cc/Z5XNP9Qw/Gemini-Generated-Image-ryw4nnryw4nnryw4.jpg') !important;
@@ -36,6 +37,7 @@
     background-repeat: no-repeat !important;
   }
 </style>
+</head>
 </head>
 <body id="index" class="split">
 <header id="top-bar" class="top-bar">
