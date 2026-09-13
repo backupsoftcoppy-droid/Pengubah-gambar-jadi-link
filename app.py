@@ -31,7 +31,7 @@
 <link rel="stylesheet" href="//simgbb.com/8179/ibb.css">
 <style>
   #home-cover {
-    background-image: url('https://i.postimg.cc/Z5XNP9Qw/Gemini-Generated-Image-ryw4nnryw4nnryw4.jpg') !important;
+    background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('https://i.postimg.cc/Z5XNP9Qw/Gemini-Generated-Image-ryw4nnryw4nnryw4.jpg') !important;
     background-size: cover !important;
     background-position: center !important;
     background-repeat: no-repeat !important;
