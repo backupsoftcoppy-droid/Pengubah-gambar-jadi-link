@@ -30,11 +30,26 @@
 <meta name="twitter:site" content="@imgbb_com">
 <link rel="stylesheet" href="//simgbb.com/8179/ibb.css">
 <style>
-  #home-cover {
-    background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('https://i.postimg.cc/Z5XNP9Qw/Gemini-Generated-Image-ryw4nnryw4nnryw4.jpg') !important;
+  #home-cover, #home-cover * {
+    position: relative;
+    z-index: 2;
+  }
+  #home-cover::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('https://i.postimg.cc/Z5XNP9Qw/Gemini-Generated-Image-ryw4nnryw4nnryw4.jpg') !important;
     background-size: cover !important;
     background-position: center !important;
     background-repeat: no-repeat !important;
+    z-index: 1;
+  }
+  #home-cover {
+    position: relative !important;
+    overflow: hidden !important;
   }
 </style>
 </head>
