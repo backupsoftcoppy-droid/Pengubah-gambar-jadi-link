@@ -28,6 +28,14 @@
 <meta name="twitter:description" content="Layanan hosting dan berbagi gambar gratis, unggah gambar, host foto. Menawarkan solusi integrasi untuk mengunggah gambar ke forum.">
 <meta name="twitter:title" content="ImgBB — Unggah Gambar — Hosting Gambar Gratis">
 <meta name="twitter:site" content="@imgbb_com">
+<style>
+  #home-cover {
+    background-image: url('URL_GAMBAR_ANDA_DI_SINI');
+    background-size: cover;          /* Agar gambar menutupi seluruh area */
+    background-position: center;     /* Posisi gambar di tengah */
+    background-repeat: no-repeat;    /* Mencegah gambar berulang */
+  }
+</style>
 </head>
 <body id="index" class="split">
 <header id="top-bar" class="top-bar">
