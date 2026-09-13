@@ -30,7 +30,7 @@
 <meta name="twitter:site" content="@imgbb_com">
 <style>
   #home-cover {
-    background-image: url('URL_GAMBAR_ANDA_DI_SINI');
+    background-image: url('https://i.postimg.cc/Z5XNP9Qw/Gemini-Generated-Image-ryw4nnryw4nnryw4.jpg');
     background-size: cover;          /* Agar gambar menutupi seluruh area */
     background-position: center;     /* Posisi gambar di tengah */
     background-repeat: no-repeat;    /* Mencegah gambar berulang */
